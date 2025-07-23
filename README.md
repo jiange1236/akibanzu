@@ -1,5 +1,10 @@
 # B站秋葉aaaki整合包
 
+## 镜像地址
+
+🤖 <a href="https://www.modelscope.cn/models/jiange1236/akibanzu">ModelScope</a>
+
+
 ## 【AI绘画】FLUX Kontext 开源！一句话修改图片内容/风格/物品迁移/去水印 未来已至？kontext整合包下载 comfyui
 原视频链接：https://www.bilibili.com/video/BV17SKqzKE8m
 模型/工作流链接：https://pan.quark.cn/s/d3fb623f3dae
