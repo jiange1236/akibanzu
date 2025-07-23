@@ -16,7 +16,7 @@ GGUF量化：https://huggingface.co/bullerwins/FLUX.1-Kontext-dev-GGUF
 
 ## 【AI绘画】SD-Forge 整合包发布！支持 SD3.5、FLUX 模型，解压即用 一键启动 ☆更新 ☆汉化 秋叶整合包
 原视频链接：https://www.bilibili.com/video/BV1rc6nYNEYo
-本整合包为 SD-Forge 整合包，如果你是新手在寻找入门 AI 绘画整合包，你要的找不是这个。请前往 【AI绘画·25年最新】Stable Diffusion整合包v4.10发布！解压即用 防爆显存 三分钟入门AI绘画 ☆更新 ☆训练 ☆汉化 秋叶整合包 下载 SD-WebUI 整合包
+本整合包为 SD-Forge 整合包
 
 本整合包无需安装git、python、cuda等任何内容，直接解压即可使用！整合包内不含模型！请自己下载导入~
 不含模型才2.5G，方便大家下载，我真是天才
