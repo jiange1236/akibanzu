@@ -19,6 +19,22 @@ Huggingface（原版）模型：https://huggingface.co/black-forest-labs/FLUX.1-
 
 GGUF量化：https://huggingface.co/bullerwins/FLUX.1-Kontext-dev-GGUF
 
+本整合包为 ComfyUI 整合包，如果你是新手在寻找入门 AI 绘画整合包，你要的找不是这个。
+
+本整合包无需安装git、python、cuda等任何内容，预装超多自定义节点
+整合包本身是把内核、插件版本对齐的，解压直接用就好，不要乱更新！更新时、内核与插件要都更新到最新，不要只更新内核或者只更新插件会出问题！！
+
+【下载链接】
+
+网盘：https://pan.quark.cn/s/64b808baa960
+解压密码：bilibili-秋葉aaaki
+
+【报错解决】
+
+遇到报错请前往启动器的 “疑难解答” 页面进行扫描
+
+【ComfyUI-aki-v1.6.7z】SHA1校验码：C70C920D545FE479BC416115657238CA2BA0F761
+
 ## 【AI绘画】SD-Forge 整合包发布！支持 SD3.5、FLUX 模型，解压即用 一键启动 ☆更新 ☆汉化 秋叶整合包
 
 原视频链接：https://www.bilibili.com/video/BV1rc6nYNEYo
